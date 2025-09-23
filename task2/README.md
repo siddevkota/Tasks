@@ -1,12 +1,47 @@
-# React + Vite
+# Task 2 - React Alert Badge Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application with a custom AlertBadge component built using Vite.
 
-Currently, two official plugins are available:
+## Quick Start
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Install dependencies:**
 
-## Expanding the ESLint configuration
+   ```bash
+   npm install
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Run development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+   Open http://localhost:5173
+
+3. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## Project Structure
+
+```
+src/
+├── AlertBadge.jsx    # Custom alert badge component
+├── App.jsx           # Main app component
+├── main.jsx          # Entry point
+└── *.css             # Styles
+```
+
+## Technologies
+
+- React 18+
+- Vite
+- ESLint
+
+## Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run linter
