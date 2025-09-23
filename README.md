@@ -6,9 +6,12 @@ A collection of development tasks covering React components, data processing, an
 
 | Task              | Description            | Technology Stack            |
 | ----------------- | ---------------------- | --------------------------- |
+| [Task 1](./BasicLogAggregationStrategy-Task1.pdf) | Define Basic Log Aggregation Strategy | PDF        |
 | [Task 2](./task2) | Display Severity in UI | React, Vite, ESLint         |
 | [Task 3](./task3) | Handle Sync Errors     | Python                      |
 | [Task 4](./task4) | Script Data Extraction | Python, SQLite, CSV         |
+| [Task 5](./IncidentResponsePlaybook-Task5.pdf) | Outline Manual Response Steps | PDF        |
+| [Task 6](./UsageAnalyticsforVideoStreaming-Task6.pdf) | Define Usage Analytics Goals | PDF        |
 | [Task 7](./task7) | Deploy Core Services   | FastAPI, PostgreSQL, Docker |
 
 ## 🚀 Quick Start
