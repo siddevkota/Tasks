@@ -1,6 +1,8 @@
-# Task 2 - React Alert Badge Component
+# Task 2
 
-A React application with a custom AlertBadge component built using Vite.
+Build model warm-up and fallback mechanisms - Task: Display Severity in UI Problem: Update the UI to clearly show the severity level of each alert/incident. Expected Outcome: UI elements displaying alert severity. Tools: Frontend framework. Research: UI design. Consider: Visual cues, accessibility.
+
+Created a React application with a custom AlertBadge component.
 
 ## Quick Start
 
