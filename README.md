@@ -106,12 +106,12 @@ KyraWorks-Tasks/
 ### Task 7:
 
 - Create model versioning and A/B testing framework
-- Task: Deploy Core Services
-- Problem: Deploy essential services (e.g., database, API) to the primary region.
-- Expected Outcome: Core services running in primary region.
-- Tools: Deployment tools, cloud console.
-- Research: Service deployment.
-- Consider: Configuration, secrets.
+  - Task: Deploy Core Services
+  - Problem: Deploy essential services (e.g., database, API) to the primary region.
+  - Expected Outcome: Core services running in primary region.
+  - Tools: Deployment tools, cloud console.
+  - Research: Service deployment.
+  - Consider: Configuration, secrets.
 
 ## 🏃‍♂️ Running All Tasks
 
