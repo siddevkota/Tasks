@@ -62,10 +62,14 @@ Access: http://localhost:8000
 
 ```
 KyraWorks-Tasks/
+├── task1/          # Basic Log Aggregation Strategy
 ├── task2/          # React Alert Badge Component
 ├── task3/          # Data Sync Utility
 ├── task4/          # Airlines Data Extraction
+├── task5/          # Incident Response Playbook
+├── task6/          # Usage Analytics for Video Streaming
 ├── task7/          # Dockerized FastAPI Application
+├── task8/          # Content Template Bank - did it for CampusWatch
 └── README.md       # This file
 ```
 
