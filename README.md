@@ -1,4 +1,4 @@
-# KyraWorks Tasks Collection
+# Tasks Collection
 
 A collection of development tasks covering React components, data processing, and containerized applications.
 
